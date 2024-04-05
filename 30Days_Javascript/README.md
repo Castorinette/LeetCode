@@ -43,4 +43,3 @@
 
 - [Video explicative par *NeetCodeIO*](https://www.youtube.com/watch?v=UXNXKGFZD08&list=PLQpVsaqBj4RIpDQIVowFni58LsK4cM9Qz&index=3)
 
-1. 
