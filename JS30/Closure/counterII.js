@@ -50,4 +50,5 @@ var createCounter = function(init) {
         reset: reset
     }
 }
+Eviter de renvoyer des structures complètes ! Pas efficace
 */
