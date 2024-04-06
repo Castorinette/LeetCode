@@ -1,5 +1,7 @@
 # 30 Days Javascript
 
+# Closure 
+
 ## **Day 1** : CreateHelloWorld.js (LeetCode 2667)
 
 ### Challenge : 
@@ -43,3 +45,19 @@
 
 - [Video explicative par *NeetCodeIO*](https://www.youtube.com/watch?v=UXNXKGFZD08&list=PLQpVsaqBj4RIpDQIVowFni58LsK4cM9Qz&index=3)
 
+# Array
+
+### **Day 5** : mapArray.js (LeetCode 2635)
+
+
+### Challenge:
+- [Description](https://leetcode.com/problems/apply-transform-over-each-element-in-array/?envType=study-plan-v2&envId=30-days-of-javascript) 
+- [Video Explicative par *NeetCodeIO*](https://www.youtube.com/watch?v=7FhJHA5jlYk)
+
+### A retenir:
+
+1. [for...of : Itérer dans un tableau avec ses éléments](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+2. [for...in : Itérer dans un tableau avec ses index](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Statements/for...in)
+3. [Tableau en JS](https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps/Arrays)
+4. [OOP vs Functional vs Procedural Programming](https://www.atatus.com/blog/programming-paradigms-compared-function-procedural-and-oop/)
+5. [Array.prototype.map() : Appliquer une fonction a chaque element d'un tableau](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
