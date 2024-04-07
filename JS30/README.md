@@ -61,3 +61,13 @@
 3. [Tableau en JS](https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps/Arrays)
 4. [OOP vs Functional vs Procedural Programming](https://www.atatus.com/blog/programming-paradigms-compared-function-procedural-and-oop/)
 5. [Array.prototype.map() : Appliquer une fonction a chaque element d'un tableau](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+
+### **Day 6** : filter.js (LeetCode 2634)
+
+### Challenge:
+
+- [Description](https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)
+
+### A retenir : 
+
+1. [for ou while: le plus rapide?](https://www.bigscal.com/blogs/frontend/which-type-of-loop-is-fastest-in-javascript/)

@@ -23,4 +23,3 @@ select tweet_id
 from Tweets
 where length(content) > 15
 
--- Challenge 1378 : Replace Employee ID with the Unique Identifier
