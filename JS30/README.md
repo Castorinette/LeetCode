@@ -67,7 +67,22 @@
 ### Challenge:
 
 - [Description](https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)
+- [Video Explicative par *NeetCodeIO*](https://www.youtube.com/watch?v=w1o81gbEEJU&list=PLQpVsaqBj4RIpDQIVowFni58LsK4cM9Qz&index=5)
 
 ### A retenir : 
 
 1. [for ou while: le plus rapide?](https://www.bigscal.com/blogs/frontend/which-type-of-loop-is-fastest-in-javascript/)
+2. [Array.filter()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+3. [Imperative vs Declarative programming](https://www.ilearnengineering.com/computer/understanding-imperative-and-declarative-programming)
+4. 
+
+### **Day 7** : reduce.js (LeetCode 2626)
+
+### Challege:
+
+- [Description](https://leetcode.com/problems/array-reduce-transformation/submissions/1226194055/?envType=study-plan-v2&envId=30-days-of-javascript)
+
+### A retenir : 
+
+1. [Recursion en js: Bonne idée?](https://javascript.plainenglish.io/the-most-important-thing-about-recursive-functions-in-javascript-5f71147ea9ba)
+2. [Array.Reduce()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
